@@ -25,7 +25,7 @@ https://github.com/nown1ne/Optical-Character-Recognition/assets/25835195/55b0542
 
 To download and use this shortcut:
 
-1. Downloaad the latest release of [```ocr.shortcut```](https://github.com/nown1ne/Optical-Character-Recognition/releases/tag/release) for the OCR Screenshot Shortcut.
+1. Download the latest release of [```ocr.shortcut```](https://github.com/nown1ne/Optical-Character-Recognition/releases/tag/release) for the OCR Screenshot Shortcut.
 2. Double-click the downloaded `.shortcut` file to open it in the Shortcuts app.
 3. Review the shortcut's actions and customize if needed.
 4. Save the shortcut with a name (e.g., "OCR Screenshot").
