@@ -4,7 +4,11 @@
 
 
 
-https://github.com/IshaanAdarsh/Optical-Character-Recognition/assets/25835195/2d064676-87e1-4ae8-8896-0444362b2c2d
+https://github.com/nown1ne/Optical-Character-Recognition/assets/25835195/55b0542e-6dc0-4d6c-bbf7-5dff018e9a45
+
+
+
+
 
 
 
