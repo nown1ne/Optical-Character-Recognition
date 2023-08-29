@@ -61,9 +61,20 @@ You can tailor the actions to match your preferences:
 
 Please note that the provided actions are designed to be executed in sequence, with each activity using input from the previous step.
 
-## Contributors
-- [Abhinav Srinivas](https://github.com/nown1ne)
-- [Ishaan Adarsh](https://github.com/IshaanAdarsh)
+<h2 align="center"> Project Maintainers & Admins</h2> 
+<div align="center"> 
+    <a href="https://github.com/nown1ne">
+    <img src="https://avatars.githubusercontent.com/u/25835195?v=4" width=100px height=100px />
+    </a>
+    <p align="center"> Abhinav Srinivas </p>
+</div>
+
+<div align="center"> 
+    <a href="https://github.com/IshaanAdarsh">
+    <img src="https://avatars.githubusercontent.com/u/100434702?v=4" width=100px height=100px />
+    </a>
+    <p align="center"> Ishaan Adarsh </p>
+</div>
 
 ## License
 - This shortcut is available under the [MIT License](LICENSE).
