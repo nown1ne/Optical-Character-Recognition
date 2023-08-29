@@ -21,6 +21,14 @@ https://github.com/nown1ne/Optical-Character-Recognition/assets/25835195/55b0542
 - Offline text extraction using OCR.
 - Combine and copy extracted text to the clipboard.
 
+## Download and Use
+
+To download and use this shortcut:
+
+1. Downloaad the latest release of [```ocr.shortcut```](https://github.com/nown1ne/Optical-Character-Recognition/releases/tag/release) for the OCR Screenshot Shortcut.
+2. Double-click the downloaded `.shortcut` file to open it in the Shortcuts app.
+3. Review the shortcut's actions and customize if needed.
+4. Save the shortcut with a name (e.g., "OCR Screenshot").
 ## How to Create Locally
 
 To create and use this shortcut on your Mac locally:
@@ -41,15 +49,7 @@ To create and use this shortcut on your Mac locally:
 4. Customize each action as desired.
 5. Save the shortcut with a name (e.g., "OCR Screenshot").
 
-## Download and Use
 
-To download and use this shortcut:
-
-1. Visit the [Optical-Character-Recognition](https://github.com/IshaanAdarsh/Optical-Character-Recognition) for the OCR Screenshot Shortcut.
-2. Locate and download the shortcut file (`OCR_Screenshot_Shortcut.shortcut`) from the repository.
-3. Double-click the downloaded `.shortcut` file to open it in the Shortcuts app.
-4. Review the shortcut's actions and customize if needed.
-5. Save the shortcut with a name (e.g., "OCR Screenshot").
 
 ## Customization
 
